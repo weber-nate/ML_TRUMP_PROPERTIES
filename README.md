@@ -8,3 +8,5 @@ Can fines associated with trump "owned" properties be classified as PAID, PARTIA
 
 - Identify Trump "owned" properties and associated Building Identification Number's (BIN's) 
 - Use BIN's to research NYC DOB ECB violations and penalities
+
+Initial research question may be difficult to answer. Instead, the authors may look at all DOB ECB violations resulting in fines. Can fines associated with building be properly classified as paid, partially paid, or not paid?
